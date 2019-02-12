@@ -9,4 +9,8 @@ __Overview:__ New video games are released with startling frequency. But with th
 __Skills Showcased:__ NLP,EDA, Web Scraping, NLP, A/B Testing, Summarization of Results
 
 ### [NBA MVP Prediction](https://github.com/micsab/Data-Science-Portfolio/tree/master/nba_mvp_prediction)
-__Overview:__ 
+__Overview:__ Can stats predict who will win the NBA MVP award? Let's find out! This project attempts to answer that along with what features (statistics) are most important in determining who has the highest liklihood of becoming MVP in any given season.
+
+__Skills Showcased:__ EDA, Feature Engineering, Feature Selection, Model Selection, HyperParameter Tuning, Results Summarization
+
+
